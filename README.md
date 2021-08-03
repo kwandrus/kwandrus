@@ -2,7 +2,7 @@ Hi, my name is Kyle Andrus. I graduated from UC Davis in December 2020 with Hono
 
 My CS coursework includes Computer Graphics (C++), Geometric Modeling (C++), Advanced Computer Graphics (Graduate Level, C++), Computer Animation (Graduate Level, C++, C#), Computer Vision (MATLAB), Artificial Intelligence (Java), Game Programming (Unity, C#), Computer Architecture, Operating Systems (C), Object-Oriented Programming (C++), Data Structures (C++), Algorithms, Physics, Calculus, Linear Algebra.
 
-I'm an avid hiker and world traveler and I'm a huge sports fan, particularly of the English Premier League, NFL, NBA, and Formula 1.
+I'm an avid hiker and world traveler and I'm a huge sports fan, particularly of the English Premier League, NFL, NBA, and Formula 1 :)
 
 <!---
 kwandrus/kwandrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
