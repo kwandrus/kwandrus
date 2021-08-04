@@ -1,4 +1,4 @@
-Hi, my name is Kyle Andrus. I graduated with Honors from UC Davis in December 2020 and have bachelor's degrees in Computer Science and Cinema & Digital Media. I'm currently searching for an entry level C++ Software Engineer position in the San Francisco Bay Area. I have a specific interest in 3D computer graphics and rendering for animation, AR/VR, and video games.
+Hi, my name is Kyle Andrus. I graduated from UC Davis in December 2020 with Honors and bachelor's degrees in Computer Science and Cinema & Digital Media. I'm currently searching for an entry level C++ Software Engineer position in the San Francisco Bay Area. I have a specific interest in 3D computer graphics and rendering for animation, AR/VR, and video games.
 
 My coursework includes Computer Graphics (C++), Geometric Modeling (C++), Advanced Computer Graphics (C++), Computer Animation (C++/C#), Computer Vision (MATLAB), Artificial Intelligence (Java), Computer Architecture, Operating Systems (C), Object-Oriented Programming (C++), Data Structures (C++), Algorithm Design, Game Programming (Unity, C#), Character Animation (Maya), Physics, Calculus, Linear Algebra.
 
