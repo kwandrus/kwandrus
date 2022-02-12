@@ -1,4 +1,4 @@
-Hi, my name is Kyle Andrus. I graduated with Honors from UC Davis with bachelor's degrees in Computer Science and Cinema & Digital Media. I'm interested in the intersection between the two, specifically computer graphics programming and video game development. I really love 3D animated films and I'm fascinated by modern day advancements in real time gaming graphics and the growing number of applications of AR/VR in everyday life.
+Hi, my name is Kyle Andrus. I graduated with Honors from UC Davis with bachelor's degrees in Computer Science and Cinema & Digital Media. I'm interested in the intersection between the two, specifically computer graphics programming for 3D animation, AR/VR, and video games.
 
 I'm an avid hiker, world traveler, amateur photographer, and a huge sports fan, particularly of the English Premier League, NFL, NBA, and Formula 1!
 
